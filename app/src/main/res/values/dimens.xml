@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="page_margin">18dp</dimen>
+    <dimen name="page">6dp</dimen>
+    <dimen name="start_padd">32dp</dimen>
+</resources>
